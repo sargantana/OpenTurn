@@ -939,6 +939,12 @@
     (path "/00000000-0000-0000-0000-000060af747c/b3c3d377-fb56-40d9-b7bc-1138c0ad436f"
       (reference "#PWR0144") (unit 1) (value "GNDS") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000060af5b92/41b6a0e5-9cf8-4d76-b729-5778fec64c41"
+      (reference "#PWR0145") (unit 1) (value "GNDS") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-000060af5b92/7de7e030-f894-4794-a5f7-ee168ee66c4f"
+      (reference "#PWR0146") (unit 1) (value "GNDS") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000060af5b92/00000000-0000-0000-0000-000061303a65"
       (reference "#PWR0201") (unit 1) (value "VBUS") (footprint "")
     )
@@ -1031,12 +1037,6 @@
     )
     (path "/00000000-0000-0000-0000-000060afcc9b/00000000-0000-0000-0000-000061754fdf"
       (reference "#PWR0411") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000060af5b92/41b6a0e5-9cf8-4d76-b729-5778fec64c41"
-      (reference "#PWR?") (unit 1) (value "GNDS") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000060af5b92/7de7e030-f894-4794-a5f7-ee168ee66c4f"
-      (reference "#PWR?") (unit 1) (value "GNDS") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000060af5b92/00000000-0000-0000-0000-0000612d88a5"
       (reference "C201") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_1206_3216Metric")
