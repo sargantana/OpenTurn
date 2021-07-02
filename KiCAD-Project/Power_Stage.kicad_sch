@@ -391,11 +391,11 @@
     (uuid 69eb0432-5116-4f69-901c-35005190008e)
   )
 
-  (hierarchical_label "I_SENSE_P" (shape input) (at 101.6 101.6 180)
+  (hierarchical_label "P_I_SENSE" (shape input) (at 101.6 101.6 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid d49a9cc2-5b72-4059-97d5-6b50d62db151)
   )
-  (hierarchical_label "I_SENSE_N" (shape input) (at 101.6 111.76 180)
+  (hierarchical_label "N_I_SENSE" (shape input) (at 101.6 111.76 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid a5fe15a9-deed-438f-9e99-14bf5e0ec89d)
   )
