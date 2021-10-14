@@ -1,8 +1,8 @@
 <middleware>
 
   <middleware>
-    <name>core-make</name>
-    <id>core-make</id>
+    <name>IFX_6EDL7141</name>
+    <id>IFX_6EDL7141</id>
     <uri>https://github.com/sargantana/OpenTurn/software/midleware/IFX_6EDL7141</uri>
     <desc>FW driver for Infineon 6EDL7141 3 phase smart gate driver.</desc>
     <category>OpenTurn</category>
@@ -17,8 +17,8 @@
   </middleware>
   
   <middleware>
-    <name>core-make</name>
-    <id>core-make</id>
+    <name>IFX_TLE5012</name>
+    <id>IFX_TLE5012</id>
     <uri>https://github.com/sargantana/OpenTurn/software/midleware/IFX_TLE5012</uri>
     <desc>FW driver for Infineon TLE5012 hall angle sensor .</desc>
     <category>OpenTurn</category>
@@ -33,8 +33,8 @@
   </middleware>
   
   <middleware>
-    <name>core-make</name>
-    <id>core-make</id>
+    <name>OpenTurn</name>
+    <id>OpenTurn</id>
     <uri>https://github.com/sargantana/OpenTurn/software/midleware/openturn</uri>
     <desc>Basic functions for OpenTurn motor controller.</desc>
     <category>OpenTurn</category>
