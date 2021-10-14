@@ -3,7 +3,7 @@
   <app>
     <name>OpenTurn DualCore Empty Project</name>
     <id>mtb2-OpenTurn-dualcore-empty-template</id>
-    <uri>https://github.com/sargantana/OpenTurn/software/examples/mtb2-OpenTurn-dualcore-empty-template</uri>
+    <uri>https://github.com/sargantana/OpenTurn/blob/master/software/examples/mtb2-OpenTurn-dualcore-empty-template</uri>
     <description>This template provide a starting point for new OpenTurn projects.</description>
     <req_capabilities>psoc6 openturn</req_capabilities>
     <versions>
@@ -17,7 +17,7 @@
   <app>
     <name>OpenTurn SingleCore Empty Project</name>
     <id>mtb2-OpenTurn-singlecore-empty-template</id>
-    <uri>https://github.com/sargantana/OpenTurn/software/examples/mtb2-OpenTurn-singlecore-empty-template</uri>
+    <uri>https://github.com/sargantana/OpenTurn/blob/master/software/examples/mtb2-OpenTurn-singlecore-empty-template</uri>
     <description>This template provide a starting point for new OpenTurn projects using only the CortexM4 core.</description>
     <req_capabilities>psoc6 openturn</req_capabilities>
     <versions>
@@ -31,7 +31,7 @@
   <app>
     <name>OpenTurn SingleCore Empty Project</name>
     <id>mtb2-OpenTurn-selftest</id>
-    <uri>https://github.com/sargantana/OpenTurn/software/examples/mtb2-OpenTurn-selftest</uri>
+    <uri>https://github.com/sargantana/OpenTurn/blob/master/software/examples/mtb2-OpenTurn-selftest</uri>
     <description>This example is a selftest for the OpenTurn pcb.</description>
     <req_capabilities>psoc6 openturn</req_capabilities>
     <versions>
@@ -45,7 +45,7 @@
   <app>
     <name>OpenTurn Project</name>
     <id>mtb2-OpenTurn-project</id>
-    <uri>https://github.com/sargantana/OpenTurn/software/examples/mtb2-OpenTurn-project</uri>
+    <uri>https://github.com/sargantana/OpenTurn/blob/master/software/examples/mtb2-OpenTurn-project</uri>
     <description>This is the latest OpenTurn source code.</description>
     <req_capabilities>psoc6 openturn</req_capabilities>
     <versions>
