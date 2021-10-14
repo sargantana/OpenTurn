@@ -1,0 +1,52 @@
+<middleware>
+
+  <middleware>
+    <name>core-make</name>
+    <id>core-make</id>
+    <uri>https://github.com/sargantana/OpenTurn/software/midleware/IFX_6EDL7141</uri>
+    <desc>FW driver for Infineon 6EDL7141 3 phase smart gate driver.</desc>
+    <category>OpenTurn</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0" tools_min_version="2.2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+  
+  <middleware>
+    <name>core-make</name>
+    <id>core-make</id>
+    <uri>https://github.com/sargantana/OpenTurn/software/midleware/IFX_TLE5012</uri>
+    <desc>FW driver for Infineon TLE5012 hall angle sensor .</desc>
+    <category>OpenTurn</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0" tools_min_version="2.2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+  
+  <middleware>
+    <name>core-make</name>
+    <id>core-make</id>
+    <uri>https://github.com/sargantana/OpenTurn/software/midleware/openturn</uri>
+    <desc>Basic functions for OpenTurn motor controller.</desc>
+    <category>OpenTurn</category>
+    <req_capabilities>OpenTurn</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0" tools_min_version="2.2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      </version>
+    </versions>
+  </middleware>
+  
+</middleware>

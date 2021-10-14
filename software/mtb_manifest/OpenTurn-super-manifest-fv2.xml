@@ -1,0 +1,17 @@
+<super-manifest>
+  <board-manifest-list>
+  </board-manifest-list>
+  
+  <app-manifest-list>
+	<app-manifest>
+      <uri>https://github.com/sargantana/OpenTurn/software/mtb_manifest/OpenTurn-app-manifest.xml</uri>
+	</app-manifest>
+  </app-manifest-list>
+  <board-manifest-list>
+	<board-manifest>
+		<uri>https://github.com/sargantana/OpenTurn/software/mtb_manifest/OpenTurn-bsp-manifest-fv2.xml</uri>
+	</board-manifest>
+  </board-manifest-list>
+  <middleware-manifest-list>
+  </middleware-manifest-list>
+</super-manifest>

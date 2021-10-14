@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "OpenTurn-rescue")(type "Legacy")(uri "${KIPRJMOD}/OpenTurn-rescue.lib")(options "")(descr ""))
-)
