@@ -4,7 +4,7 @@
     <category>OpenTurn</category>
     <board_uri>https://github.com/sargantana/OpenTurn</board_uri>
     <chips>
-      <mcu>CY8C6244LQI-S4D92</mcu>
+      <mcu>CY8C6244AZI-S4D92</mcu>
     </chips>
     <name>OpenTurn</name>
     <summary>Open source Motor Controler based on Infineon PSoC 62x4 microcontroler, Infineon TLE5012 hall rotary endocer and Infineon 6EDL7141 MosFET driver.</summary>
