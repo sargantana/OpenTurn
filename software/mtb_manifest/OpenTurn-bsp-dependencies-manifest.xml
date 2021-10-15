@@ -1,6 +1,6 @@
 <dependencies version="2.0">
   <depender>
-    <id>TARGET_OpenTurn</id>
+    <id>OpenTurnBSP</id>
     <versions>
       <version>
         <commit>TARGET_OpenTurn</commit>
