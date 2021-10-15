@@ -45,7 +45,8 @@
   <app>
     <name>OpenTurn Project</name>
     <id>mtb2-OpenTurn-project</id>
-    <uri>https://github.com/sargantana/OpenTurn.git --branch mtb2-OpenTurn-project</uri>
+    <uri>https://github.com/sargantana/OpenTurn.git</uri>
+	<branch>mtb2-OpenTurn-project</branch>
     <description>This is the latest OpenTurn source code.</description>
     <req_capabilities>psoc6 openturn</req_capabilities>
     <versions>
