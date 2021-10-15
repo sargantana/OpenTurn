@@ -3,7 +3,7 @@
     <id>OpenTurnBSP</id>
     <versions>
       <version>
-        <commit>TARGET_OpenTurn</commit>
+        <commit>main</commit>
         <dependees>
           <dependee>
             <id>core-lib</id>
