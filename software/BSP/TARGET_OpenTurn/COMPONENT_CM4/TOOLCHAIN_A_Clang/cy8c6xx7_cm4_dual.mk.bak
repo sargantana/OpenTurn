@@ -1,6 +1,6 @@
 ################################################################################
-# \file cy8c6xx4_cm4_dual.mk
-# \version 2.91
+# \file cy8c6xx7_cm4_dual.mk
+# \version 2.90.1
 #
 # \brief
 # Specifies the starting address and the size of the segments in the output
@@ -11,7 +11,7 @@
 #
 ################################################################################
 # \copyright
-# Copyright 2018-2021 Cypress Semiconductor Corporation
+# Copyright 2018-2020 Cypress Semiconductor Corporation
 # SPDX-License-Identifier: Apache-2.0
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -31,10 +31,10 @@
 export HEAP_SIZE_CM0P     := 0x400
 export VECT_BASE_CM0P     := 0x10000000
 export RAM_VECT_BASE_CM0P := 0x08000000
-export VECT_SIZE_CM0P     := 0x00000080
-export TEXT_BASE_CM0P     := 0x10000080
+export VECT_SIZE_CM0P     := 0x000000C0
+export TEXT_BASE_CM0P     := 0x100000C0
 export TEXT_SIZE_CM0P     := 0x00002000
-export RAM_BASE_CM0P      := 0x08000080
+export RAM_BASE_CM0P      := 0x080000C0
 export RAM_SIZE_CM0P      := 0x00002000
 export CYMETA_BASE_CM0P   := 0x90500000
 export STACK_SIZE_CM0P    := 0x2000
@@ -55,11 +55,11 @@ SECTIONS_CM0P := \
 export HEAP_SIZE_CM4     := 0x400
 export VECT_BASE_CM4     := 0x10002000
 export RAM_VECT_BASE_CM4 := 0x08002000
-export VECT_SIZE_CM4     := 0x000002FC
-export TEXT_BASE_CM4     := 0x100022FC
-export TEXT_SIZE_CM4     := 0x0003E000
-export RAM_BASE_CM4      := 0x080022FC
-export RAM_SIZE_CM4      := 0x0001D800
+export VECT_SIZE_CM4     := 0x0000028C
+export TEXT_BASE_CM4     := 0x1000228C
+export TEXT_SIZE_CM4     := 0x000FE000
+export RAM_BASE_CM4      := 0x0800228C
+export RAM_SIZE_CM4      := 0x00045800
 export CYMETA_BASE_CM4   := 0x90500000
 export STACK_SIZE_CM4    := 0x2000
 STACK_ADDRESS_TOP_CM4    := $(shell printf "0x%x" $$(($(RAM_VECT_BASE_CM4) + $(RAM_SIZE_CM4))))
