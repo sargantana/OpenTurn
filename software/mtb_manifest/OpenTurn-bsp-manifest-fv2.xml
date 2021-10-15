@@ -2,7 +2,7 @@
   <board default_location="local">
     <id>OpenTurn</id>
     <category>OpenTurn</category>
-    <board_uri>https://github.com/unl34shed/TARGET_OpenTurn</board_uri>
+    <board_uri>https://github.com/sargantana/OpenTurn</board_uri>
     <chips>
       <mcu>CY8C6244AZI-S4D92</mcu>
     </chips>
@@ -24,7 +24,7 @@
     <versions>
       <version tools_min_version="2.2.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen2">
         <num>1.0.0 release</num>
-        <commit>main</commit>
+        <commit>TARGET_OpenTurn</commit>
       </version>
     </versions>
   </board>

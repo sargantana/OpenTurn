@@ -3,7 +3,7 @@
     <id>OpenTurn</id>
     <versions>
       <version>
-        <commit>main</commit>
+        <commit>TARGET_OpenTurn</commit>
         <dependees>
           <dependee>
             <id>core-lib</id>
