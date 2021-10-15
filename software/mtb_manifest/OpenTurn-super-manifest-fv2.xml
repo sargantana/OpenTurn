@@ -12,10 +12,6 @@
     </board-manifest>
   </board-manifest-list>
   
-  <middleware-manifest-list>
-    <middleware-manifest>
-      <uri>https://raw.githubusercontent.com/sargantana/OpenTurn/main/software/mtb_manifest/OpenTurn-mw-manifest-fv2.xml</uri>
-    </middleware-manifest>
-  </middleware-manifest-list>
+
   
 </super-manifest>
