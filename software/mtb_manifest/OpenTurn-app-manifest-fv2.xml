@@ -45,13 +45,13 @@
   <app>
     <name>OpenTurn Project</name>
     <id>mtb2-OpenTurn-project</id>
-    <uri>https://github.com/sargantana/OpenTurn/#mtb2-OpenTurn-project</uri>
+    <uri>https://github.com/sargantana/OpenTurn</uri>
     <description>This is the latest OpenTurn source code.</description>
     <req_capabilities>psoc6 openturn</req_capabilities>
     <versions>
       <version flow_version="2.0">
         <num>Latest 1.X release</num>
-        <commit>master</commit>
+        <commit>mtb2-OpenTurn-project</commit>
       </version>
     </versions>
   </app>
