@@ -7,7 +7,7 @@
   </app-manifest-list>
   
   <board-manifest-list>
-    <board-manifest>
+    <board-manifest dependency-url="https://raw.githubusercontent.com/sargantana/OpenTurn/main/software/mtb_manifest/OpenTurn-bsp-dependencies-manifest.xml">
       <uri>https://raw.githubusercontent.com/sargantana/OpenTurn/main/software/mtb_manifest/OpenTurn-bsp-manifest-fv2.xml</uri>
     </board-manifest>
   </board-manifest-list>
