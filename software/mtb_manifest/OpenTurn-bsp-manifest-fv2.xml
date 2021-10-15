@@ -1,6 +1,6 @@
 <boards version="2.0">
   <board default_location="local">
-    <id>OpenTurnBSP</id>
+    <id>OpenTurn</id>
     <category>OpenTurn</category>
     <board_uri>https://github.com/unl34shed/TARGET_OpenTurn</board_uri>
     <chips>
